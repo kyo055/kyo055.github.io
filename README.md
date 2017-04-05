@@ -12,6 +12,7 @@ You need to prepare the AVT camera with GigE port （ I use the Manta G-201B/C w
 Here I update the piston's software use the qt4-addin-vs，and I use the qt UIs in the Visual Studio Software to designed my project.
 Here I project all the sources your need for this project, you can just git clone my project and then install the sources as follow.
 As for linux system you can download the linux Allied Vision for the project , you can acess the [website](https://cdn.alliedvision.com/fileadmin/content/software/software/Vimba/Vimba_v2.0_Linux.tgz)
+
 # Install Vimba2.0
 ## Header 2
 ### Header 3
