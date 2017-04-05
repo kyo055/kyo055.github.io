@@ -14,7 +14,7 @@ Here I project all the sources your need for this project, you can just git clon
 As for linux system you can download the linux Allied Vision for the project , you can acess the [website](https://cdn.alliedvision.com/fileadmin/content/software/software/Vimba/Vimba_v2.0_Linux.tgz)
 
 ```The Focus steps
-# Header 1
+-# Header 1
 ## Install Vimba2.0
 # Install qt4 
 # Start Project
